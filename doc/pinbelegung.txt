@@ -1,0 +1,8 @@
+
+Baud 4800
+
+ESP32           RS485
+RX (GPIO 3)     D1
+TX (GPIO 1)     R0
+GPIO 5          DE & RE
+
