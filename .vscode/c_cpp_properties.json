@@ -8,13 +8,13 @@
         {
             "name": "PlatformIO",
             "includePath": [
-                "/home/chavilli/NAS/Arduino/Solartracker/SolarTracker_git_2023_v1/include",
-                "/home/chavilli/NAS/Arduino/Solartracker/SolarTracker_git_2023_v1/src",
+                "/home/chavilli/NAS/Arduino/RS_485/esp32_rs485/include",
+                "/home/chavilli/NAS/Arduino/RS_485/esp32_rs485/src",
                 "/home/chavilli/.platformio/packages/framework-arduinoespressif32/libraries/ArduinoOTA/src",
                 "/home/chavilli/.platformio/packages/framework-arduinoespressif32/libraries/ESPmDNS/src",
                 "/home/chavilli/.platformio/packages/framework-arduinoespressif32/libraries/Update/src",
                 "/home/chavilli/.platformio/packages/framework-arduinoespressif32/libraries/WiFi/src",
-                "/home/chavilli/NAS/Arduino/Solartracker/SolarTracker_git_2023_v1/.pio/libdeps/upesy_wroom/PubSubClient/src",
+                "/home/chavilli/NAS/Arduino/RS_485/esp32_rs485/.pio/libdeps/upesy_wroom/PubSubClient/src",
                 "/home/chavilli/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/newlib/platform_include",
                 "/home/chavilli/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include",
                 "/home/chavilli/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include/esp_additions/freertos",
@@ -237,13 +237,13 @@
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
-                    "/home/chavilli/NAS/Arduino/Solartracker/SolarTracker_git_2023_v1/include",
-                    "/home/chavilli/NAS/Arduino/Solartracker/SolarTracker_git_2023_v1/src",
+                    "/home/chavilli/NAS/Arduino/RS_485/esp32_rs485/include",
+                    "/home/chavilli/NAS/Arduino/RS_485/esp32_rs485/src",
                     "/home/chavilli/.platformio/packages/framework-arduinoespressif32/libraries/ArduinoOTA/src",
                     "/home/chavilli/.platformio/packages/framework-arduinoespressif32/libraries/ESPmDNS/src",
                     "/home/chavilli/.platformio/packages/framework-arduinoespressif32/libraries/Update/src",
                     "/home/chavilli/.platformio/packages/framework-arduinoespressif32/libraries/WiFi/src",
-                    "/home/chavilli/NAS/Arduino/Solartracker/SolarTracker_git_2023_v1/.pio/libdeps/upesy_wroom/PubSubClient/src",
+                    "/home/chavilli/NAS/Arduino/RS_485/esp32_rs485/.pio/libdeps/upesy_wroom/PubSubClient/src",
                     "/home/chavilli/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/newlib/platform_include",
                     "/home/chavilli/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include",
                     "/home/chavilli/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include/esp_additions/freertos",
